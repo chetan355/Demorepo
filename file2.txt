@@ -1,1 +1,2 @@
 File2 created for bug1.
+Colleague changes remote file2.

@@ -1,2 +1,3 @@
 File2 created for bug1.
 Colleague changes remote file2.
+One step ahead to origin/main.
